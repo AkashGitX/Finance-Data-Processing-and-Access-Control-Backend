@@ -594,7 +594,7 @@ Transactions are never permanently deleted. Instead, `is_deleted = true` is set:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/finance-backend.git
+git clone https://github.com/AkashGitX/Finance-Data-Processing-and-Access-Control-Backend
 cd finance-backend
 ```
 
