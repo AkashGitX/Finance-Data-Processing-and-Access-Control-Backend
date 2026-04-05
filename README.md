@@ -3,6 +3,11 @@
 > A production-ready, role-based financial backend built with Java 17, Spring Boot 3, JWT Security, and Spring AI — designed for scalable data processing, access control, and intelligent financial analytics.
 
 ---
+## 🎥 Project Demo Video
+
+Watch the complete explanation and live demonstration of the project below:
+
+👉 https://www.youtube.com/watch?v=KVjuDIOVO2M&feature=youtu.be
 
 ## 📋 Table of Contents
 
@@ -638,20 +643,7 @@ Login immediately with these credentials to get your JWT token.
 
 ---
 
-## 🔮 Future Enhancements
 
-| Enhancement | Description |
-|-------------|-------------|
-| 🔮 Expense Prediction | ML-based forecasting of future expenses from historical data |
-| 💰 Budget Management | Set monthly budgets per category with overspend alerts |
-| 🔔 Smart Alerts | Email/webhook notifications when thresholds are breached |
-| 📁 CSV Export | Export filtered transactions to CSV for reporting |
-| 🔄 Recurring Transactions | Auto-create periodic income/expense entries |
-| 📱 Multi-currency Support | Store and convert transactions in multiple currencies |
-| 🔍 Audit Logs | Track every change made to users and transactions |
-| 📊 Report Generation | Schedule and generate PDF financial reports |
-
----
 
 ## 👨‍💻 Author
 
